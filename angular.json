@@ -29,7 +29,7 @@
             ],
             "styles": [
               "src/styles.sass",
-              "src/font-inconsolata.css",
+              "src/Inconsolata.css",
               "./node_modules/uikit/dist/css/uikit.min.css",
               "./node_modules/uikit/dist/css/uikit-core.min.css"
             ],
@@ -99,7 +99,7 @@
             ],
             "styles": [
               "src/styles.sass",
-              "src/font-inconsolata.css",
+              "src/Inconsolata.css",
               "./node_modules/uikit/dist/css/uikit.min.css",
               "./node_modules/uikit/dist/css/uikit-core.min.css"
             ],
