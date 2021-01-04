@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 300;
+  src: url(./fonts/Inconsolata/Inconsolata-normal-300.ttf) format('truetype'), url(./fonts/Inconsolata/Inconsolata-normal-300.woff) format('woff'), url(./fonts/Inconsolata/Inconsolata-normal-300.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./fonts/Inconsolata/Inconsolata-normal-400.eot);
+  src: local('Inconsolata'), url(./fonts/Inconsolata/Inconsolata-normal-400.ttf) format('truetype'), url(./fonts/Inconsolata/Inconsolata-normal-400.svg#Inconsolata) format('svg'), url(./fonts/Inconsolata/Inconsolata-normal-400.eot?#iefix) format('embedded-opentype'), url(./fonts/Inconsolata/Inconsolata-normal-400.woff) format('woff'), url(./fonts/Inconsolata/Inconsolata-normal-400.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 700;
+  src: url(./fonts/Inconsolata/Inconsolata-normal-700.ttf) format('truetype'), url(./fonts/Inconsolata/Inconsolata-normal-700.woff) format('woff'), url(./fonts/Inconsolata/Inconsolata-normal-700.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 900;
+  src: url(./fonts/Inconsolata/Inconsolata-normal-900.ttf) format('truetype'), url(./fonts/Inconsolata/Inconsolata-normal-900.woff) format('woff'), url(./fonts/Inconsolata/Inconsolata-normal-900.woff2) format('woff2');
+}
+
